@@ -15,9 +15,9 @@ load_dotenv()
 
 # API tokens and limits setup
 apis = [
-    {"api_key": "jm933nnK6gdjUXGr4gIVmjPwRVMFELcp", "minute_limit": 500000, "monthly_limit": 100000000, "used_in_last_minute": 0, "used_in_month": 0},
-    {"api_key": "t0zJXzm2HklV9YgNBkjHyCC9z775RYAM", "minute_limit": 500000, "monthly_limit": 100000000, "used_in_last_minute": 0, "used_in_month": 0},
-    {"api_key": "wtiP9b9HFvZdbyhTByQLjLeAXctbzp3F", "minute_limit": 500000, "monthly_limit": 100000000, "used_in_last_minute": 0, "used_in_month": 0},
+    {"api_key": "yOUR API", "minute_limit": 500000, "monthly_limit": 100000000, "used_in_last_minute": 0, "used_in_month": 0},
+    {"api_key": "YOUR API", "minute_limit": 500000, "monthly_limit": 100000000, "used_in_last_minute": 0, "used_in_month": 0},
+    {"api_key": "YOUR API", "minute_limit": 500000, "monthly_limit": 100000000, "used_in_last_minute": 0, "used_in_month": 0},
     # Add more API keys as needed
 ]
 
